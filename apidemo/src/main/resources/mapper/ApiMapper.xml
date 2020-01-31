@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="cn.loveyx815.apidemo.dao.ApiMapper" >
+
+
+
+    <select id="getGoodList" resultType="java.util.Map">
+        SELECT id,img_url,title,sell_price,market_price,stock_quantity FROM t_goods
+          LIMIT #{index},#{offset}
+
+    </select>
+
+    <select id="getCountGoods" resultType="java.lang.Integer">
+
+        select  count(*) from  t_goods
+    </select>
+
+    <select id="getGoodInfo" resultType="java.util.Map">
+        SELECT title,'商品参数' as title2 ,sell_price,market_price,stock_quantity ,
+        goods_no,add_time
+        FROM `t_goods`
+        where id=#{id}
+    </select>
+    <select id="getCarList" resultType="java.util.Map">
+         SELECT id,img_url,title,sell_price,market_price,stock_quantity FROM t_goods
+         where id in (${ids})
+
+    </select>
+</mapper>
