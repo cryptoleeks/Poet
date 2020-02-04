@@ -9,7 +9,7 @@ import cn.loveyx815.rocketmq.spring.SpringCousumer;
 /**
  * @Auther: Yonggang Shi
  * @Date: 2020/01/31 14:45
- * @Description:
+ * @Description: 消费者单测
  */
 @SpringBootTest
 public class SpringConsumerTest {

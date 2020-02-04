@@ -15,7 +15,7 @@ import sun.plugin2.message.Serializer;
 /**
  * @Auther: Yonggang Shi
  * @Date: 2020/01/31 14:44
- * @Description:
+ * @Description: 生产者单测
  */
 @SpringBootTest
 public class SpringProducerTest {
