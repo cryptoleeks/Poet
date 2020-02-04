@@ -6,18 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="RocketMQ" />
+        <module name="rocketmq" />
         <module name="rocketmq-console-ng" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="RocketMQ" target="1.8" />
+      <module name="rocketmq" target="1.8" />
       <module name="rocketmq-console-ng" target="1.7" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="RocketMQ" options="-parameters" />
+      <module name="rocketmq" options="-parameters" />
     </option>
   </component>
 </project>
