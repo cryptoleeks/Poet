@@ -7,92 +7,22 @@
     <list default="true" id="3e429a31-45af-4cb1-bcc3-4073e7455f60" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_29.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_43_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_12_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_client_4_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_common_4_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_remoting_4_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_27.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_27.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_27.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_18_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_29.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_29.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Spring_5_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_2_RELEASE.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MQ/MQ.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MQ/MQ.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RocketMQ/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RocketMQ/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/spring/SpringCousumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/spring/SpringCousumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/spring/config/ConfigConsumer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/spring/config/ConfigProducer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RocketMQ/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/RocketMQ/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RocketMQ/src/test/java/cn/loveyx815/rocketmq/SpringConsumerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/RocketMQ/src/test/java/cn/loveyx815/rocketmq/SpringConsumerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RocketMQ/src/test/java/cn/loveyx815/rocketmq/SpringProducerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/RocketMQ/src/test/java/cn/loveyx815/rocketmq/SpringProducerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/conf/DataSourceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/conf/DataSourceConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/conf/MQConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/conf/MQConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/dao/PointDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/dao/PointDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RocketMQ/src/test/java/cn/loveyx815/rocketmq/mqtransaction/conf/MQConfigTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/RocketMQ/src/test/java/cn/loveyx815/rocketmq/mqtransaction/conf/MQConfigTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MQ/cn/lovey815/test/ProduceClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MQ/cn/lovey815/test/ProduceClient.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/RocketMQ/target/" />
     <ignored path="F:/Develop/rocketmq-externals-release-rocketmq-console-1.0.0/rocketmq-console/target/" />
+    <ignored path="$PROJECT_DIR$/shirodemo/target/" />
+    <ignored path="$PROJECT_DIR$/damai/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,103 +43,70 @@
     <expand />
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mycode" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/tx/TransactionProducer.java">
+        <entry file="file://$PROJECT_DIR$/DesignPattern/src/observer/Observer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="82" lean-forward="true" selection-start-line="18" selection-end-line="82" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="137">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/WorkFile/MavenPepository/org/apache/rocketmq/rocketmq-client/4.6.0/rocketmq-client-4.6.0.jar!/org/apache/rocketmq/client/impl/producer/DefaultMQProducerImpl.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="1105" selection-start-line="1105" selection-end-line="1105" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/WorkFile/MavenPepository/org/apache/rocketmq/rocketmq-common/4.6.0/rocketmq-common-4.6.0.jar!/org/apache/rocketmq/common/message/Message.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="102" selection-start-line="102" selection-end-line="102" />
-              <folding>
-                <element signature="e#2841#2842#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/consts/Consts.java">
+        <entry file="file://$PROJECT_DIR$/DesignPattern/src/observer/DisplayElement.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
-              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RocketMQ/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="41" lean-forward="true" selection-start-column="21" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/WorkFile/MavenPepository/org/springframework/boot/spring-boot-autoconfigure/1.4.3.RELEASE/spring-boot-autoconfigure-1.4.3.RELEASE.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/WorkFile/MavenPepository/org/apache/rocketmq/rocketmq-client/4.3.0/rocketmq-client-4.3.0.jar!/org/apache/rocketmq/client/impl/producer/TopicPublishInfo.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="33" column="64" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mq/Producer.java">
+        <entry file="file://$PROJECT_DIR$/DesignPattern/src/observer/Subject.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <caret line="9" selection-start-line="9" selection-end-line="13" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPattern/src/observer/WeatherData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="42" column="23" lean-forward="true" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+              <folding>
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#1011#1012#0" expanded="true" />
+                <element signature="e#1044#1045#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/tx/TransactionConsumer.java">
+        <entry file="file://$PROJECT_DIR$/DesignPattern/src/observer/CurrentConditionDisplay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="55" lean-forward="true" selection-start-line="17" selection-end-line="55" />
+            <state relative-caret-position="130">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#771#772#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://F:/Develop/jdk8/jdk8/src.zip!/java/util/concurrent/TimeUnit.java">
+        <entry file="file://$PROJECT_DIR$/DesignPattern/src/observer/WeatherStation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="851">
-              <caret line="70" column="12" selection-start-line="70" selection-start-column="12" selection-end-line="70" selection-end-column="12" />
+            <state relative-caret-position="161">
+              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -219,9 +116,23 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find> </find>
+      <find>producer</find>
+      <find>2.0.1.RELEASE</find>
+      <find />
+      <find>put</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>2.1.1.RELEASE</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -229,15 +140,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/spring/config/ConfigProducer.java" />
-        <option value="$PROJECT_DIR$/RocketMQ/src/test/java/cn/loveyx815/rocketmq/SpringProducerTest.java" />
-        <option value="$PROJECT_DIR$/RocketMQ/src/test/java/cn/loveyx815/rocketmq/SpringConsumerTest.java" />
-        <option value="F:/Develop/rocketmq-externals-release-rocketmq-console-1.0.0/rocketmq-console/src/main/java/org/apache/rocketmq/console/App.java" />
-        <option value="$PROJECT_DIR$/RocketMQ/pom.xml" />
-        <option value="$PROJECT_DIR$/RocketMQ/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/tx/TransactionConsumer.java" />
-        <option value="$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/consts/Consts.java" />
-        <option value="$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/tx/TransactionProducer.java" />
+        <option value="$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/message/TransactionSpringConsumer.java" />
+        <option value="$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/message/UserLocalTransactionListener.java" />
+        <option value="$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/service/PointService.java" />
+        <option value="$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/service/UserService.java" />
+        <option value="$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/dao/PointDao.java" />
+        <option value="$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/conf/MQConfig.java" />
+        <option value="$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/conf/DataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/JVM/src/HeapOOM.java" />
+        <option value="$PROJECT_DIR$/JVM/src/JavaVMStackOOM.java" />
+        <option value="$PROJECT_DIR$/JVM/src/RuntimeConstantRoolOOM.java" />
+        <option value="$PROJECT_DIR$/JVM/src/RuntimeConstansPoolOOMByPermGen.java" />
+        <option value="$PROJECT_DIR$/JVM/src/gc/ReferenceCountingGC.java" />
+        <option value="$PROJECT_DIR$/JVM/src/gc/main.java" />
+        <option value="$PROJECT_DIR$/DateStructure/src/stack/train_1.java" />
+        <option value="$PROJECT_DIR$/DateStructure/src/stack/train_2.java" />
+        <option value="$PROJECT_DIR$/DateStructure/src/leetcode/train_1.java" />
+        <option value="$PROJECT_DIR$/shirodemo/pom.xml" />
+        <option value="$PROJECT_DIR$/shirodemo/src/main/resources/shiro.ini" />
+        <option value="$PROJECT_DIR$/shirodemo/src/test/java/cn/loveyx815/shirodemo/ShirodemoApplicationTests.java" />
+        <option value="$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/compont/main.java" />
+        <option value="$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/compont/mail.java" />
+        <option value="$PROJECT_DIR$/damai/src/test/java/cn/loveyx815/damai/DamaiApplicationTests.java" />
+        <option value="$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/compont/MailUtil.java" />
+        <option value="$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/utils/SeriliesUtil.java" />
+        <option value="$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/spring/MessageListener.java" />
+        <option value="$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/bean/MailBean.java" />
+        <option value="$PROJECT_DIR$/damai/pom.xml" />
+        <option value="$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/spring/config/ConfigBean.java" />
+        <option value="$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/compont/MsgMailCom.java" />
+        <option value="$PROJECT_DIR$/damai/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/damai/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/compont/DMJSONP.java" />
+        <option value="$PROJECT_DIR$/JVM/src/gc/mainTest.java" />
+        <option value="$PROJECT_DIR$/JVM/src/thread/SynAddRunable.java" />
+        <option value="$PROJECT_DIR$/JVM/src/classLoad/SuperClass.java" />
+        <option value="$PROJECT_DIR$/JVM/src/classLoad/SubClass.java" />
+        <option value="$PROJECT_DIR$/JVM/src/classLoad/main.java" />
+        <option value="$PROJECT_DIR$/JVM/src/classLoad/Main.java" />
+        <option value="$PROJECT_DIR$/JVM/src/other/bean/Person.java" />
+        <option value="$PROJECT_DIR$/JVM/src/other/proxy/TraceHandle.java" />
+        <option value="$PROJECT_DIR$/JVM/src/other/proxy/ProxyTest.java" />
+        <option value="$PROJECT_DIR$/JVM/src/other/ListCompare.java" />
+        <option value="$PROJECT_DIR$/JVM/src/other/Impl/InterfaceTestImpl.java" />
+        <option value="$PROJECT_DIR$/JVM/src/other/InterfaceTest.java" />
+        <option value="$PROJECT_DIR$/DesignPattern/src/observer/Observer.java" />
+        <option value="$PROJECT_DIR$/DesignPattern/src/observer/Subject.java" />
+        <option value="$PROJECT_DIR$/DesignPattern/src/observer/WeatherStation.java" />
+        <option value="$PROJECT_DIR$/DesignPattern/src/observer/DisplayElement.java" />
+        <option value="$PROJECT_DIR$/DesignPattern/src/observer/WeatherData.java" />
+        <option value="$PROJECT_DIR$/DesignPattern/src/observer/CurrentConditionDisplay.java" />
       </list>
     </option>
   </component>
@@ -246,7 +199,7 @@
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\WorkFile\MavenPepository" />
         <option name="mavenHome" value="F:/Develop/apache-maven-3.6.0-bin/apache-maven-3.6.0" />
-        <option name="userSettingsFile" value="F:\DevelopTools\apache-maven-3.6.0-bin\apache-maven-3.6.0\conf\settings.xml" />
+        <option name="userSettingsFile" value="F:\Develop\apache-maven-3.6.0-bin\apache-maven-3.6.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -255,12 +208,39 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="damai" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="damai" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="rocketmq" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="rocketmq" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="rocketmq" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework.boot:spring-boot-starter-web:2.1.1.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="rocketmq" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework.boot:spring-boot-starter-jdbc:2.1.1.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="rocketmq" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework.boot:spring-boot-starter-actuator:2.1.1.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
         </path>
       </expand>
       <select />
@@ -280,70 +260,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="mycode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RocketMQ" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mycode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RocketMQ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mycode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RocketMQ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mycode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RocketMQ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mycode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RocketMQ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mycode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RocketMQ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="loveyx815" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mycode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RocketMQ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="loveyx815" type="462c0819:PsiDirectoryNode" />
-              <item name="rocketmq" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mycode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RocketMQ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -351,16 +269,38 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580798646598" />
-    <property name="last_opened_file_path" value="F:/Develop/rocketmq-externals-release-rocketmq-console-1.0.0/rocketmq-console" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587199938836" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="E:/Program Files/jprofiler9/bin/jprofiler.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="cn.loveyx815.rocketmq.mqtransaction.conf" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Code\mycode\damai\src\main\resources" />
+      <recent name="F:\Code\mycode\damai\src\main\java\cn\loveyx815\damai" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.loveyx815.rocketmq.mqtransaction.service" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -374,13 +314,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TransactionConsumer">
-    <configuration name="Producer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.loveyx815.rocketmq.mq.Producer" />
-      <module name="rocketmq" />
+  <component name="RunManager" selected="Application.WeatherStation">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classLoad.Main" />
+      <module name="JVM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.loveyx815.rocketmq.mq.*" />
+          <option name="PATTERN" value="classLoad.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -388,12 +328,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransactionConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.loveyx815.rocketmq.tx.TransactionConsumer" />
-      <module name="rocketmq" />
+    <configuration name="ProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.proxy.ProxyTest" />
+      <module name="JVM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.loveyx815.rocketmq.tx.*" />
+          <option name="PATTERN" value="other.proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -401,12 +341,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransactionProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.loveyx815.rocketmq.tx.TransactionProducer" />
-      <module name="rocketmq" />
+    <configuration name="SynAddRunable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.SynAddRunable" />
+      <module name="JVM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.loveyx815.rocketmq.tx.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -414,31 +354,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringProducerTest.sendMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="rocketmq" />
+    <configuration name="WeatherStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="observer.WeatherStation" />
+      <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.loveyx815.rocketmq.*" />
+          <option name="PATTERN" value="observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.loveyx815.rocketmq" />
-      <option name="MAIN_CLASS_NAME" value="cn.loveyx815.rocketmq.SpringProducerTest" />
-      <option name="METHOD_NAME" value="sendMessage" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="rocketmq-console-ng" />
+    <configuration name="mainTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gc.mainTest" />
+      <module name="JVM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.apache.rocketmq.console.*" />
+          <option name="PATTERN" value="gc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="org.apache.rocketmq.console.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mainTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gc.mainTest" />
+      <module name="JVM" />
+      <option name="VM_PARAMETERS" value="-Xms20M -Xmx20M -Xmn10M -XX:+PrintGCDetails -XX:SurvivorRatio=8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DamaiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="damai" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.loveyx815.damai.DamaiApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -450,13 +408,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShirodemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shirodemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.loveyx815.shirodemo.ShirodemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.mainTest" />
+      <item itemvalue="Application.mainTest (1)" />
+      <item itemvalue="Application.SynAddRunable" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ProxyTest" />
+      <item itemvalue="Spring Boot.DamaiApplication" />
+      <item itemvalue="Spring Boot.RocketmqApplication" />
+      <item itemvalue="Spring Boot.ShirodemoApplication" />
+      <item itemvalue="Application.WeatherStation" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TransactionProducer" />
-        <item itemvalue="Application.TransactionConsumer" />
-        <item itemvalue="Spring Boot.App" />
-        <item itemvalue="Application.Producer" />
-        <item itemvalue="JUnit.SpringProducerTest.sendMessage" />
+        <item itemvalue="Application.WeatherStation" />
+        <item itemvalue="Application.ProxyTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SynAddRunable" />
+        <item itemvalue="Application.mainTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -473,71 +449,133 @@
       <workItem from="1580480260436" duration="5143000" />
       <workItem from="1580719738156" duration="8870000" />
       <workItem from="1580784126186" duration="3716000" />
-      <workItem from="1580795041660" duration="3477000" />
+      <workItem from="1580795041660" duration="4603000" />
+      <workItem from="1580805111186" duration="10865000" />
+      <workItem from="1580826817085" duration="4262000" />
+      <workItem from="1580872061158" duration="22687000" />
+      <workItem from="1580913078339" duration="6270000" />
+      <workItem from="1581090446044" duration="2599000" />
+      <workItem from="1581094550335" duration="4637000" />
+      <workItem from="1581153103051" duration="3011000" />
+      <workItem from="1581229807747" duration="341000" />
+      <workItem from="1581231165852" duration="1514000" />
+      <workItem from="1581235558800" duration="4343000" />
+      <workItem from="1581411874840" duration="631000" />
+      <workItem from="1581433684788" duration="1227000" />
+      <workItem from="1581475913748" duration="587000" />
+      <workItem from="1581605167270" duration="1421000" />
+      <workItem from="1581668598386" duration="3262000" />
+      <workItem from="1581745248414" duration="19912000" />
+      <workItem from="1582442803234" duration="1000" />
+      <workItem from="1582596827294" duration="26737000" />
+      <workItem from="1582770671079" duration="900000" />
+      <workItem from="1583924865432" duration="2299000" />
+      <workItem from="1586009648607" duration="586000" />
+      <workItem from="1586767814263" duration="2025000" />
+      <workItem from="1587014742219" duration="583000" />
+      <workItem from="1587054853719" duration="10379000" />
     </task>
+    <task id="LOCAL-00001" summary="新增用户积分-分布式事务实现">
+      <created>1580897982878</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580897982879</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SpringConsumerTest_consume - 2020.01.31 at 22h 34m 54s.xml">
-      <configuration name="SpringConsumerTest.consume" configurationId="JUnit" />
+    <history-entry file="DamaiApplicationTests_sendHTMLMail - 2020.02.25 at 13h 47m 31s.xml">
+      <configuration name="DamaiApplicationTests.sendHTMLMail" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpringProducerTest_sendMessage - 2020.02.01 at 10h 57m 27s.xml">
-      <configuration name="SpringProducerTest.sendMessage" configurationId="JUnit" />
+    <history-entry file="DamaiApplicationTests_sendHTMLMail - 2020.02.25 at 13h 55m 07s.xml">
+      <configuration name="DamaiApplicationTests.sendHTMLMail" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpringProducerTest_sendMessage - 2020.02.01 at 10h 58m 20s.xml">
-      <configuration name="SpringProducerTest.sendMessage" configurationId="JUnit" />
+    <history-entry file="DamaiApplicationTests_sendHTMLMail - 2020.02.25 at 14h 00m 56s.xml">
+      <configuration name="DamaiApplicationTests.sendHTMLMail" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpringConsumerTest - 2020.02.01 at 11h 02m 18s.xml">
-      <configuration name="SpringConsumerTest" configurationId="JUnit" />
+    <history-entry file="DamaiApplicationTests_sendHTMLMail - 2020.02.25 at 14h 01m 38s.xml">
+      <configuration name="DamaiApplicationTests.sendHTMLMail" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpringProducerTest_sendMessage - 2020.02.01 at 11h 06m 28s.xml">
-      <configuration name="SpringProducerTest.sendMessage" configurationId="JUnit" />
+    <history-entry file="DamaiApplicationTests_sendHTMLMail - 2020.02.25 at 14h 03m 02s.xml">
+      <configuration name="DamaiApplicationTests.sendHTMLMail" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DamaiApplicationTests_sendHTMLMail - 2020.02.25 at 14h 55m 24s.xml">
+      <configuration name="DamaiApplicationTests.sendHTMLMail" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DamaiApplicationTests_sendHTMLMail - 2020.02.25 at 14h 58m 53s.xml">
+      <configuration name="DamaiApplicationTests.sendHTMLMail" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DamaiApplicationTests_sendHTMLMail - 2020.02.25 at 15h 00m 12s.xml">
+      <configuration name="DamaiApplicationTests.sendHTMLMail" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DamaiApplicationTests_sendHTMLMail - 2020.02.25 at 15h 00m 57s.xml">
+      <configuration name="DamaiApplicationTests.sendHTMLMail" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DamaiApplicationTests - 2020.02.25 at 15h 58m 18s.xml">
+      <configuration name="DamaiApplicationTests" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21206000" />
+    <option name="totallyTimeSpent" value="153411000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49618322" visible="true" weight="0.15279879" />
+      <window_info id="Structure" order="1" sideWeight="0.5017065" side_tool="true" weight="0.22617246" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.5038168" side_tool="true" weight="0.15279879" />
+      <window_info id="Web" order="7" sideWeight="0.5017065" side_tool="true" weight="0.22617246" />
       <window_info anchor="bottom" id="Dependency Viewer" order="0" weight="0.32935154" />
       <window_info anchor="bottom" id="Spring" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.5648464" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="5" weight="0.32935154" />
-      <window_info anchor="bottom" id="Java Enterprise" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50075644" side_tool="true" weight="0.3686007" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.27474403" />
+      <window_info anchor="bottom" id="Database Changes" order="6" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.32935154" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32935154" />
       <window_info anchor="bottom" id="Message" order="9" />
-      <window_info anchor="bottom" id="Find" order="10" />
-      <window_info anchor="bottom" id="Debug" order="11" weight="0.7320819" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.53583616" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.37883958" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="14" visible="true" weight="0.52047783" />
-      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="bottom" id="Run" order="14" sideWeight="0.49924356" visible="true" weight="0.32423207" />
+      <window_info anchor="bottom" id="TODO" order="15" weight="0.32935154" />
+      <window_info anchor="bottom" id="JProfiler" order="16" weight="0.32935154" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.19288956" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.28895614" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="leetcode" order="10" side_tool="true" visible="true" weight="0.13313162" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新增用户积分-分布式事务实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增用户积分-分布式事务实现" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -560,11 +598,216 @@
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/service/UserService.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/WorkFile/MavenPepository/org/apache/rocketmq/rocketmq-client/4.6.0/rocketmq-client-4.6.0.jar!/org/apache/rocketmq/client/producer/DefaultMQProducer.class</url>
+          <line>280</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/service/UserService.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/service/UserService.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/dao/UserDao.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/dao/UserDao.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/service/UserService.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/message/UserLocalTransactionListener.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/conf/MQConfig.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/WorkFile/MavenPepository/org/apache/rocketmq/rocketmq-client/4.6.0/rocketmq-client-4.6.0.jar!/org/apache/rocketmq/client/producer/TransactionMQProducer.class</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mqtransaction/conf/MQConfig.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JVM/src/RuntimeConstantRoolOOM.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DateStructure/src/stack/train_2.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DateStructure/src/stack/train_2.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DateStructure/src/stack/train_2.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DateStructure/src/stack/train_2.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DateStructure/src/leetcode/train_1.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DateStructure/src/leetcode/train_1.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shirodemo/src/test/java/cn/loveyx815/shirodemo/ShirodemoApplicationTests.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/damai/src/test/java/cn/loveyx815/damai/DamaiApplicationTests.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/compont/DMJSONP.java</url>
+          <line>122</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/compont/MsgMailCom.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/compont/DMJSONP.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/compont/DMJSONP.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/compont/DMJSONP.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JVM/src/other/proxy/TraceHandle.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JVM/src/other/proxy/ProxyTest.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JVM/src/other/proxy/ProxyTest.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/compont/MsgMailCom.java</url>
+          <line>20</line>
+          <properties field="dmjsonp" class="cn.loveyx815.damai.compont.MsgMailCom" />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/compont/DMJSONP.java</url>
+          <line>53</line>
+          <properties field="producer" class="cn.loveyx815.damai.compont.DMJSONP" />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="object" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>jsonObject.get(&quot;pageData&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>mailBean.getRecipient().indexOf(&quot;;&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>mailBean.getRecipient()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>producer.getProducer()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>tag.equals(&quot;Transactionl&quot;)</expression-string>
         <language-id>JAVA</language-id>
@@ -573,176 +816,422 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/spring/config/ConfigConsumer.java" />
-    <entry file="file://$PROJECT_DIR$/RocketMQ/src/test/java/cn/loveyx815/rocketmq/SpringConsumerTest.java">
+    <entry file="jar://D:/WorkFile/MavenPepository/org/springframework/spring-beans/5.2.3.RELEASE/spring-beans-5.2.3.RELEASE.jar!/org/springframework/beans/BeanUtils.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="58">
+          <caret line="109" column="17" lean-forward="true" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RocketMQ/src/test/java/cn/loveyx815/rocketmq/SpringProducerTest.java">
+    <entry file="jar://D:/WorkFile/MavenPepository/org/jsoup/jsoup/1.9.2/jsoup-1.9.2.jar!/org/jsoup/nodes/Element.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="34" column="61" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="61" />
+        <state relative-caret-position="-724">
+          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/WorkFile/MavenPepository/org/apache/rocketmq/rocketmq-client/4.2.0/rocketmq-client-4.2.0.jar!/org/apache/rocketmq/client/producer/DefaultMQProducer.class">
+    <entry file="jar://D:/WorkFile/MavenPepository/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2.jar!/org/apache/shiro/mgt/SecurityManager.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4071">
-          <caret line="206" column="33" selection-start-line="206" selection-start-column="33" selection-end-line="206" selection-end-column="33" />
+        <state relative-caret-position="161">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/spring/SpringProducer.java">
+    <entry file="jar://D:/WorkFile/MavenPepository/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2.jar!/org/apache/shiro/mgt/DefaultSecurityManager.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="54" selection-start-line="5" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/WorkFile/MavenPepository/org/apache/rocketmq/rocketmq-client/4.2.0/rocketmq-client-4.2.0.jar!/org/apache/rocketmq/client/consumer/listener/MessageListenerConcurrently.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/spring/MessageListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="35" selection-start-line="11" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/spring/config/ConfigBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57">
-          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/spring/SpringCousumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mq/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/WorkFile/MavenPepository/org/apache/rocketmq/rocketmq-client/4.3.0/rocketmq-client-4.3.0.jar!/org/apache/rocketmq/client/impl/producer/DefaultMQProducerImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10511">
-          <caret line="527" selection-start-line="527" selection-end-line="527" />
+        <state relative-caret-position="215">
+          <caret line="146" column="33" selection-start-line="146" selection-start-column="33" selection-end-line="146" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RocketMQ/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1219">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/WorkFile/MavenPepository/org/springframework/spring-beans/5.2.1.RELEASE/spring-beans-5.2.1.RELEASE.jar!/org/springframework/beans/factory/annotation/Value.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Develop/rocketmq-externals-release-rocketmq-console-1.0.0/rocketmq-console/src/main/java/org/apache/rocketmq/console/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/WorkFile/MavenPepository/org/springframework/boot/spring-boot-autoconfigure/1.4.3.RELEASE/spring-boot-autoconfigure-1.4.3.RELEASE.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/WorkFile/MavenPepository/org/apache/rocketmq/rocketmq-client/4.3.0/rocketmq-client-4.3.0.jar!/org/apache/rocketmq/client/impl/producer/TopicPublishInfo.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="33" column="64" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/mq/Producer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Develop/jdk8/jdk8/src.zip!/java/util/concurrent/TimeUnit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="851">
-          <caret line="70" column="12" selection-start-line="70" selection-start-column="12" selection-end-line="70" selection-end-column="12" />
+        <state relative-caret-position="92">
+          <caret line="67" column="21" selection-start-line="51" selection-start-column="8" selection-end-line="67" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RocketMQ/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://D:/WorkFile/MavenPepository/org/apache/commons/commons-lang3/3.9/commons-lang3-3.9.jar!/org/apache/commons/lang3/time/DateUtils.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="41" lean-forward="true" selection-start-column="21" selection-end-column="41" />
+        <state relative-caret-position="-586">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/consts/Consts.java">
+    <entry file="jar://D:/WorkFile/MavenPepository/org/junit/platform/junit-platform-commons/1.5.2/junit-platform-commons-1.5.2.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        <state relative-caret-position="104">
+          <caret line="361" selection-start-line="361" selection-end-line="361" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/WorkFile/MavenPepository/org/apache/commons/commons-lang3/3.9/commons-lang3-3.9.jar!/org/apache/commons/lang3/StringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="983" selection-start-line="983" selection-end-line="983" />
+          <folding>
+            <element signature="e#30514#30515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/WorkFile/MavenPepository/org/springframework/spring-context-support/5.2.3.RELEASE/spring-context-support-5.2.3.RELEASE.jar!/org/springframework/mail/javamail/MimeMessageHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="257" selection-start-line="257" selection-end-line="257" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/damai/src/test/java/cn/loveyx815/damai/DamaiApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="33" column="40" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="33" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RocketMQ/src/test/java/cn/loveyx815/rocketmq/SpringProducerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="36" column="49" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="36" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/WorkFile/MavenPepository/org/apache/rocketmq/rocketmq-common/4.6.0/rocketmq-common-4.6.0.jar!/org/apache/rocketmq/common/message/Message.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        <state relative-caret-position="449">
+          <caret line="44" column="11" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
           <folding>
-            <element signature="e#2841#2842#0" expanded="true" />
+            <element signature="e#1195#1196#0" expanded="true" />
+            <element signature="e#1247#1248#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/WorkFile/MavenPepository/org/apache/rocketmq/rocketmq-client/4.6.0/rocketmq-client-4.6.0.jar!/org/apache/rocketmq/client/impl/producer/DefaultMQProducerImpl.class">
+    <entry file="file://$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/utils/SerializeUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="1105" selection-start-line="1105" selection-end-line="1105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/tx/TransactionProducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="82" lean-forward="true" selection-start-line="18" selection-end-line="82" />
+        <state relative-caret-position="-870">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RocketMQ/src/main/java/cn/loveyx815/rocketmq/tx/TransactionConsumer.java">
+    <entry file="file://$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/spring/SpringProducer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="55" lean-forward="true" selection-start-line="17" selection-end-line="55" />
+        <state relative-caret-position="59">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RocketMQ/src/test/java/cn/loveyx815/rocketmq/SpringConsumerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/spring/SpringCousumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-759">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/DamaiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/bean/MailBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Develop/jdk8/jdk8/jre/lib/rt.jar!/sun/reflect/DelegatingConstructorAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/WorkFile/MavenPepository/org/springframework/spring-context/5.2.3.RELEASE/spring-context-5.2.3.RELEASE.jar!/org/springframework/scheduling/support/ScheduledMethodRunnable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+          <folding>
+            <element signature="e#1457#1458#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/spring/MessageListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="34" column="46" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/spring/config/ConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/compont/DMJSONP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/damai/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/damai/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/compont/MailUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1127">
+          <caret line="62" column="30" selection-start-line="62" selection-start-column="30" selection-end-line="62" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/damai/src/main/java/cn/loveyx815/damai/compont/MsgMailCom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/damai/HELP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="207">
+            <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JVM/src/gc/mainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JVM/src/classLoad/SuperClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JVM/src/thread/SynAddRunable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JVM/src/other/ListCompare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Develop/jdk8/jdk8/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30245">
+          <caret line="1370" column="29" selection-start-line="1370" selection-start-column="29" selection-end-line="1370" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+            <element signature="e#177353#177354#0" expanded="true" />
+            <element signature="e#177410#177411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Develop/jdk8/jdk8/src.zip!/java/lang/reflect/InvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JVM/src/other/proxy/TraceHandle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JVM/src/other/bean/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JVM/src/classLoad/SubClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JVM/src/classLoad/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/damai/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1886">
+          <caret line="82" column="27" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JVM/src/other/proxy/ProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JVM/src/other/InterfaceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JVM/src/other/Impl/InterfaceTestImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Develop/jdk8/jdk8/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="522" column="19" selection-start-line="522" selection-start-column="19" selection-end-line="522" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/src/observer/DisplayElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/src/observer/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" selection-start-line="9" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/src/observer/WeatherStation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/src/observer/WeatherData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="42" column="23" lean-forward="true" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+          <folding>
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#1011#1012#0" expanded="true" />
+            <element signature="e#1044#1045#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/src/observer/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/src/observer/CurrentConditionDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#771#772#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -799,7 +1288,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>rocketmq</last-edited>
+          <last-edited>DesignPattern</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -824,7 +1313,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>lib</last-edited>
+          <last-edited>Maven: asm:asm:3.3.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

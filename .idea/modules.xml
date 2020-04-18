@@ -3,9 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RocketMQ/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/RocketMQ/.mvn/.mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructure/DataStructure.iml" filepath="$PROJECT_DIR$/DataStructure/DataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVM/JVM.iml" filepath="$PROJECT_DIR$/JVM/JVM.iml" />
       <module fileurl="file://$PROJECT_DIR$/MQ/MQ.iml" filepath="$PROJECT_DIR$/MQ/MQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/damai/damai.iml" filepath="$PROJECT_DIR$/damai/damai.iml" />
       <module fileurl="file://$PROJECT_DIR$/RocketMQ/rocketmq.iml" filepath="$PROJECT_DIR$/RocketMQ/rocketmq.iml" />
       <module fileurl="file://F:/Develop/rocketmq-externals-release-rocketmq-console-1.0.0/rocketmq-console/rocketmq-console-ng.iml" filepath="F:/Develop/rocketmq-externals-release-rocketmq-console-1.0.0/rocketmq-console/rocketmq-console-ng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirodemo/shirodemo.iml" filepath="$PROJECT_DIR$/shirodemo/shirodemo.iml" />
     </modules>
   </component>
 </project>

@@ -3,8 +3,10 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/RocketMQ/pom.xml" />
         <option value="F:/Develop/rocketmq-externals-release-rocketmq-console-1.0.0/rocketmq-console/pom.xml" />
+        <option value="$PROJECT_DIR$/RocketMQ/pom.xml" />
+        <option value="$PROJECT_DIR$/shirodemo/pom.xml" />
+        <option value="$PROJECT_DIR$/damai/pom.xml" />
       </list>
     </option>
   </component>

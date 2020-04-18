@@ -2,6 +2,8 @@
 <project version="4">
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$/RocketMQ" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/damai" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shirodemo" charset="UTF-8" />
     <file url="file://F:/Develop/rocketmq-externals-release-rocketmq-console-1.0.0/rocketmq-console" charset="UTF-8" />
   </component>
 </project>
