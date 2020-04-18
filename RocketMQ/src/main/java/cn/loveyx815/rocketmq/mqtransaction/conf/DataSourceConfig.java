@@ -46,13 +46,26 @@ public class DataSourceConfig {
             @Qualifier("formalDataSource") DataSource formalDataSource){
         return new JdbcTemplate(formalDataSource);
     }
-
+    /*
+     * @Description:用户DAO层bean， 通过参数注入对应的jdbctemplate，实现对库绑定
+     * @Param: [jdbcTemplate]
+     * @Return: cn.loveyx815.rocketmq.mqtransaction.dao.UserDao
+     * @Author: Yonggang Shi
+     * @Date: 2020/2/5/005 下午 11:57
+     */
     @Bean(name="userDao")
     public UserDao getUserDao(@Qualifier("testJdbcTemplate") JdbcTemplate jdbcTemplate){
         UserDao userDao =new UserDao();
         userDao.setJdbcTemplate(jdbcTemplate);
         return  userDao;
     }
+    /*
+     * @Description:积分DAO层bean， 通过参数注入对应的jdbctemplate，实现对库绑定
+     * @Param: [jdbcTemplate]
+     * @Return: cn.loveyx815.rocketmq.mqtransaction.dao.UserDao
+     * @Author: Yonggang Shi
+     * @Date: 2020/2/5/005 下午 11:57
+     */
     @Bean(name="pointDao")
     public PointDao getPointDao(@Qualifier("formalJdbcTemplate") JdbcTemplate jdbcTemplate){
         PointDao pointDao =new PointDao();

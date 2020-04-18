@@ -20,11 +20,13 @@ import cn.loveyx815.rocketmq.mqtransaction.bean.Point;
  */
 public class PointDao extends JdbcDaoSupport {
 
-//    @Qualifier("jdbcTemplate2")
-//    private JdbcTemplate jdbcTemplate;
-//    public void init(){
-//        super.setJdbcTemplate(jdbcTemplate);
-//    }
+    /*
+     * @Description: 插入积分对象入库
+     * @Param: [point]
+     * @Return: java.lang.String
+     * @Author: Yonggang Shi
+     * @Date: 2020/2/5/005 下午 11:41
+     */
     public String insert(Point point){
         String id = UUID.randomUUID().toString().replace("-","");
         getJdbcTemplate().update("insert into t_point(id,user_id,amount) values(?,?,?)",(PreparedStatement ps)->{
@@ -34,7 +36,13 @@ public class PointDao extends JdbcDaoSupport {
         });
         return id;
     }
-
+    /*
+     * @Description: 根据用户ID查找对应的积分记录
+     * @Param: [userId]
+     * @Return: cn.loveyx815.rocketmq.mqtransaction.bean.Point
+     * @Author: Yonggang Shi
+     * @Date: 2020/2/5/005 下午 11:42
+     */
     public Point getByUserId(String userId){
         List<Map<String ,Object>> list = getJdbcTemplate().queryForList("select id,user_id,amount from t_point where user_id ='"+userId+"'");
         if ((list==null) || (list.size()==0)){

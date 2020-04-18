@@ -19,16 +19,24 @@ import cn.loveyx815.rocketmq.mqtransaction.bean.User;
 
 public class UserDao extends JdbcDaoSupport {
 
-//    @Qualifier("jdbcTemplate1")
-//    private JdbcTemplate jdbcTemplate;
-//    public void init(){
-//        super.setJdbcTemplate(jdbcTemplate);
-//    }
+    /*
+     * @Description: 通过UUID生成用户ID
+     * @Param: []
+     * @Return: java.lang.String
+     * @Author: Yonggang Shi
+     * @Date: 2020/2/5/005 下午 11:43
+     */
     public String getId(){
         String id= UUID.randomUUID().toString().replace("-","");
         return  id;
     }
-
+    /*
+     * @Description: 向库中插入新用户
+     * @Param: [id, userName]
+     * @Return: java.lang.String
+     * @Author: Yonggang Shi
+     * @Date: 2020/2/5/005 下午 11:43
+     */
     public String insert(String id,String userName){
         getJdbcTemplate().update("insert into t_user(id,user_name) values(?,?)",(PreparedStatement ps )->{
             ps.setString(1,id);
@@ -36,7 +44,13 @@ public class UserDao extends JdbcDaoSupport {
         });
         return id;
     }
-
+    /*
+     * @Description: 通过用户ID查找用户
+     * @Param: [userId]
+     * @Return: cn.loveyx815.rocketmq.mqtransaction.bean.User
+     * @Author: Yonggang Shi
+     * @Date: 2020/2/5/005 下午 11:44
+     */
     public User getById(String userId){
         return getJdbcTemplate().queryForObject("select id,user_name from t_user where id ='"+userId+"'",(ResultSet rs,int rowNum)->{
             User user =new User();

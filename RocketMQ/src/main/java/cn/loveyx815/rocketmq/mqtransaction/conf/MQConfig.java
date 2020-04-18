@@ -25,22 +25,6 @@ import cn.loveyx815.rocketmq.mqtransaction.message.UserLocalTransactionListener;
 @ComponentScan(value = "cn.loveyx815.rocketmq.mqtransaction.message")
 public class MQConfig {
 
-//    @Bean(name = "userLocalTransactionListener")
-//    public UserLocalTransactionListener userLocalTransactionListener() {
-//        return new UserLocalTransactionListener();
-//    }
-//
-//    @Bean(name = "transactionMessageListener")
-//    public TransactionMessageListener transactionMessageListener() {
-//        return new TransactionMessageListener();
-//    }
-//    @Bean
-//    public Endpoint endpointHttp(UserLocalTransactionListener userLocalTransactionListener) {
-//        EndpointImpl endpoint = new EndpointImpl(springBus(), userLocalTransactionListener);
-//        endpoint.publish("/messageWebService");
-//        return endpoint;
-//    }
-
     @Bean(name = "prooducer", initMethod = "init", destroyMethod = "destory")
     @DependsOn(value = "userLocalTransactionListener")
     public TransactionSpringProducer transactionSpringProducer(UserLocalTransactionListener userLocalTransactionListener) {

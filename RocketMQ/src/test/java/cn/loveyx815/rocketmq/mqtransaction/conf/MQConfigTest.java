@@ -26,7 +26,7 @@ public class MQConfigTest {
 
     @Test
     public void newUser() throws Exception{
-        userService.newUserAndPoint("分布式事务测试",100);
+        userService.newUserAndPoint("分布式事务测试new",100);
         Thread.sleep(5000);
     }
 }
